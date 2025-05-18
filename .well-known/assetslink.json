@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wksoftware.santo",
+    "sha256_cert_fingerprints":
+    ["EF:1E:AE:0A:11:FF:5D:8E:5B:27:53:2E:10:57:8B:88:68:F9:53:83:BA:AB:B7:C4:D8:B6:9B:DA:B7:70:55:A5"]
+  }
+}]
