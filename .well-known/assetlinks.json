@@ -1,4 +1,5 @@
-[{
+[
+  {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
@@ -6,4 +7,15 @@
     "sha256_cert_fingerprints":
     ["A6:2A:E1:08:80:AC:41:18:14:A0:94:AC:1A:DA:23:14:DE:44:A3:B6:C1:98:E7:AC:64:66:90:2F:CA:D5:F8:D3"]
   }
-}]
+},
+{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wksoftware.event",
+      "sha256_cert_fingerprints": [
+        "2A:03:4A:BE:96:CF:A6:77:AE:7B:DE:20:D9:57:B5:EB:0A:DB:09:1E:01:49:1E:8F:56:C3:37:1D:53:0C:30:08"
+      ]
+    }
+  }
+]
